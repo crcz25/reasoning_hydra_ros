@@ -1,0 +1,77 @@
+<launch>
+    <arg name="sim_time_required" default="false"/>
+    <param name="use_sim_time" value="$(arg sim_time_required)"/>
+    <arg name="playback_mode" default="false" doc="Run in playback mode with compressed images"/>
+
+    <!-- Configuration -->
+    <arg name="config_dir" default="$(find hydra)/config/3rscan"/>
+    <arg name="reconstruction_config_path" default="$(arg config_dir)/reconstruction_config.yaml"/>
+    <arg name="color_mesh_by_label" default="true" doc="display mesh colored by semantic label"/>
+    <arg name="use_oriented_bounding_boxes" default="false"/>
+    <arg name="use_2d_places" default="true"/>
+    <arg name="use_single_channel_label_image" default="false"/>
+    <arg name="min_separation_s" default="0.0" doc="Enforced separation between input images"/>
+    <arg name="start_rviz" default="false" doc="automatically start rviz"/>
+    <arg name="dsg_output_dir" default="/home/albert/Desktop/hydra_out/3rscan"/>
+
+    <!-- Robot frames, and camera specs -->
+    <arg name="robot_frame" default="base_link" doc="robot body tf frame"/>
+    <arg name="odom_frame" default="world" doc="odometry (map) frame"/>
+    <arg name="sensor_frame" default="sensor" doc="camera frame"/>
+    <arg name="map_frame" default="world" doc="backend scene graph frame"/>
+    <arg name="height" default="680" doc="Height of the input image"/>
+    <arg name="width" default="1200" doc="Width of the input image"/>
+    <arg name="sensor_max_range" default="6.0" doc="Maximum range of the sensor in meters"/>
+    <arg name="sensor_min_range" default="0.05" doc="Minimum range of the sensor in meters"/>
+
+    <!-- semantics -->
+    <arg name="labelspace_name" default="3rscan" doc="semantic label space"/>
+    <arg name="semantic_map_dir" default="$(find hydra_ros)/config/color"/>
+    <arg name="semantic_map_path" default="$(arg semantic_map_dir)/$(arg labelspace_name).csv"/>
+    <arg name="semantic_label_remap_filepath" default="$(find hydra)/config/label_remaps/3rscan.yaml" if="$(arg use_single_channel_label_image)"/>
+    <arg name="open_vocab" default="true" doc="Use open vocabulary for segmentation"/>
+    <arg name="use_vlm" default="true" doc="Use VLM for relationships"/>
+    <arg name="promptable_relationships" default="false" doc="Use VLM to decode relationship features"/>
+    <arg name="navigation_vlm" default="false" doc="VLM service for navigation"/>
+    <arg name="labels_from_prompt" default="false" doc="Get VLM labels from prompt"/>
+    <arg name="colormap_path" default="$(find hydra_ros)/config/color/3rscan.csv" doc="Visualization colormap"/>
+    <arg name="segmentation_model" default="yoloe"/>
+    <arg name="pub_vlm_annotations" default="true" doc="Publish VLM annotations for relationships"/>
+    <arg name="yolo_model_name" default="yoloe-11l-seg.pt" doc="Name of the YOLO model to use"/>
+
+    <!-- Topics -->
+    <arg name="rgb_topic" default="/rgb_image"/>
+    <arg name="camera_info_topic" default="/rgb_camera_info"/>
+    <arg name="rgb_info_topic" default="/rgb_camera_info"/>
+    <arg name="depth_topic" default="/depth_image"/>
+    <arg name="label_topic" default="/semantic_inference/semantic_color/feature_image"/>
+    <arg name="relations_topic" default="/semantic_inference/relation_features"/>
+    <arg name="panoptic_topic" default="/semantic_inference/panoptic/image_raw"/>
+    <arg name="labeled_relationships_topic" default="/semantic_inference/labeled_relationships"/>
+    <arg name="object_search_topic" default="/semantic_inference/navigation_prompt_service/navigation_embeddings"/>
+    <arg name="visual_relationships_encodings_topic" default="/hydra_ros_node/backend/vlm_relationships/visual_relationships_encodings"/>
+    <arg name="navigation_topic" default="/hydra_ros_node/navigation/object_search_output" doc="Name of the VLM for navigation node"/>
+    <arg name="find_paths_service_name" default="/hydra_ros_node/navigation/find_paths" doc="Name of the find paths service"/>
+    <arg name="evaluating_objects_topic" default="/hydra_ros_node/navigation/evaluating_objects" doc="Topic for evaluating objects"/>
+    <arg name="image_feature_topic" default="/semantic_inference/image_feature"/>
+    <arg name="image_topic" default="$(arg rgb_topic)" doc="Input image topic"/>
+    <arg name="image_feature_topic" default="/semantic_inference/image_feature"/>
+
+
+    <!-- Relay from /topic to /topic2 -->
+    <node pkg="topic_tools" type="relay" name="relay_node" output="screen" args="$(arg image_topic) /semantic_inference/color/image_raw"/>
+    <node pkg="topic_tools" type="relay" name="relay_depth" output="screen" args="$(arg depth_topic) /semantic_inference/depth/image_raw"/>
+    <include file="$(find semantic_inference_ros)/launch/semantic_inference.launch" pass_all_args="true"/>
+
+    <!-- Navigation launch -->
+    <include file="$(find semantic_inference_ros)/launch/navigation_prompt_parser.launch" pass_all_args="true" if="$(arg promptable_relationships)"/>
+    <include file="$(find semantic_inference_ros)/launch/vlm_for_navigation.launch" pass_all_args="true" if="$(arg navigation_vlm)"/>
+
+    <!-- Hydra launch -->
+    <include file="$(find hydra_ros)/launch/hydra.launch" pass_all_args="true">
+        <arg name="dataset_name" default="3rscan"/>
+        <arg name="rviz_file" default="3rscan.rviz"/>
+        <arg name="start_visualizer" default="false"/>
+    </include>
+
+</launch>

@@ -1,0 +1,30 @@
+<launch>
+<arg name="dataset_path" default="$(find hydra_ros)/datasets/3RScan/data/3RScan"/>
+<arg name="scene_name" default="0a4b8ef6-a83a-21f2-8672-dce34dd0d7ca"/>
+<arg name="robot_frame" default="base_link"/>
+<arg name="odom_frame" default="world"/>
+<arg name="sensor_frame" default="sensor"/>
+<arg name="rate" default="10.0"/>
+<arg name="scale" default="1.0"/>
+<arg name="crop_width" default="0"/>
+<arg name="crop_height" default="0"/>
+<arg name="python_env" default="$(find semantic_inference_python)/ros_semantics_env/bin/python" doc="Python environment for open vocab"/>
+<arg name="start_paused" default="true"/>
+<arg name="start_frame" default="0" doc="Start from a specific frame"/>
+<arg name="stride" default="1" doc="Stride for the frames"/>
+
+<node pkg="hydra_ros" type="publish_3RScan.py" name="publish_3RScan" output="screen" required="true" launch-prefix="$(arg python_env)">
+    <param name="dataset_path" value="$(arg dataset_path)/$(arg scene_name)"/>
+    <param name="rate" value="$(arg rate)"/>
+    <param name="start_paused" value="$(arg start_paused)"/>
+    <param name="robot_frame" value="$(arg robot_frame)"/>
+    <param name="odom_frame" value="$(arg odom_frame)"/>
+    <param name="sensor_frame" value="$(arg sensor_frame)"/>
+    <param name="scale" value="$(arg scale)"/>
+    <param name="crop_width" value="$(arg crop_width)"/>
+    <param name="crop_height" value="$(arg crop_height)"/>
+    <param name="start_frame" value="$(arg start_frame)"/>
+    <param name="stride" value="$(arg stride)"/>
+</node>
+
+</launch>

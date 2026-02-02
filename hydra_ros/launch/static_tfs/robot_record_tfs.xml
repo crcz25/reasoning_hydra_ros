@@ -1,0 +1,8 @@
+<launch>
+
+<node pkg="tf2_ros" type="static_transform_publisher" name="body2camera" args="-0.04189 0.00166 0.03805 0 0 0 body camera_link"/>
+<node pkg="tf2_ros" type="static_transform_publisher" name="body2lidar" args="-0.06069 0.00864 0.07278 0 0 0 1 body os_sensor"/>
+<node pkg="tf2_ros" type="static_transform_publisher" name="cameralink2cameraframe" args="0.000 -0.059 0.000 0.001 -0.001 0.000 1.000 camera_link camera_aligned_depth_to_color_frame"/>
+<node pkg="tf2_ros" type="static_transform_publisher" name="cameraframe2cameraoptical" args="0.000 0.000 0.000 -0.500 0.500 -0.500 0.500 camera_aligned_depth_to_color_frame camera_color_optical_frame"/>
+
+</launch>

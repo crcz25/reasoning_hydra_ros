@@ -1,0 +1,378 @@
+name,red,green,blue,alpha,id,color
+Graphics,26,127,81,255,0,seagreen
+Intercom,128,29,137,255,0,purple
+Lamp1,8,10,16,255,11,black
+AC_Duct,80,184,210,255,0,mediumturquoise
+Graffiti3,12,112,165,255,19,darkcyan
+Ceiling_8x8_LOD1,135,191,186,255,4,mediumaquamarine
+Ceiling_8x8_LOD0,245,116,121,255,4,salmon
+Trashcan,41,113,228,255,18,royalblue
+Concrete_Beam,129,10,2,255,0,maroon
+Tunnel_Lamp,188,49,10,255,11,firebrick
+Ceiling_4x4,151,114,194,255,4,mediumpurple
+Display_LG,36,144,165,255,19,lightseagreen
+Phone,53,240,253,255,10,turquoise
+Floor_4x4_3,151,83,176,255,3,darkorchid
+Ad_Benbow,105,159,5,255,19,olivedrab
+Ceiling2_4x4,117,171,54,255,4,olivedrab 1
+Ground_Dirt_LG,137,206,174,255,3,mediumaquamarine 1
+Railing_LG,71,86,68,255,0,darkslategray
+AC_Pipe_LOD0,46,164,194,255,4,lightseagreen 1
+AC_Pipe_LOD1,133,186,142,255,4,darkseagreen
+Vent_LG,54,180,24,255,0,limegreen
+Ceiling_8x8_Pipes_LOD1,164,142,124,255,4,rosybrown
+Ceiling_8x8_Pipes_LOD0,204,61,152,255,4,mediumvioletred
+Ceiling_8x8_Pipes_LOD2,31,141,202,255,4,steelblue
+Pillar_Concrete,246,202,156,255,19,navajowhite
+Floor_4x4,222,117,231,255,3,orchid
+Floor_platform_Cable_LOD0,85,151,231,255,3,cornflowerblue
+Floor_platform_Cable_LOD1,2,197,183,255,3,darkturquoise
+Pipes_LOD1,46,141,196,255,4,steelblue 1
+Pipes_LOD0,230,102,158,255,4,palevioletred
+Floor_Platform_NOCable_2,141,63,58,255,3,sienna
+Metal_Pillar_SM,205,112,200,255,19,orchid 1
+Advert3,55,222,173,255,19,turquoise 1
+Ceiling_4x4_LOD0,53,46,248,255,4,royalblue 1
+Ceiling_4x4_LOD1,245,50,67,255,4,crimson
+Posters3,85,11,151,255,19,indigo
+Metal_Pillar,73,109,226,255,19,royalblue 2
+Ground_Dirt_1,190,3,70,255,3,crimson 1
+Dirt1,143,84,0,255,19,saddlebrown
+Adshell_ServiceGuide,131,176,111,255,19,darkseagreen 1
+Sign5_DoNotCross,93,211,55,255,14,limegreen 1
+Station_Name1,177,51,29,255,19,firebrick 1
+Rails_LOD2,248,42,222,255,3,magenta
+Ceiling_Corridor_Pipes_LOD1,36,184,201,255,4,lightseagreen 2
+Ceiling_Corridor_Pipes_LOD0,77,34,44,255,4,darkslategray 1
+UtilitiesBox,126,7,250,255,19,blueviolet
+Station_name,11,149,253,255,19,dodgerblue
+Exitsign1,123,84,238,255,14,mediumslateblue
+Floor_Platform_NOCable,32,16,30,255,3,black 1
+Ground_Dirt_3,195,224,3,255,3,greenyellow
+Station_name2,47,216,82,255,19,limegreen 2
+Ceiling_Slope_4x4,190,233,170,255,4,palegreen
+Floor_4x4_4,32,221,115,255,3,springgreen
+Ground_Dirt_4,151,100,207,255,3,mediumpurple 1
+Posters1,156,154,235,255,19,mediumpurple 2
+Floor_Platform_Nobcable_4,191,112,251,255,3,orchid 2
+Lamp_Style4,148,12,199,255,11,darkviolet
+Adshel_Cylinder,79,151,173,255,19,cadetblue
+Adshel_Cylinder_Rotating,174,101,109,255,19,indianred
+Advert1,99,159,89,255,19,mediumseagreen
+StandpipeCover_LG,240,192,72,255,4,sandybrown
+Relaybox,2,98,148,255,19,teal
+Concrete_Beam_Short,127,121,236,255,0,mediumslateblue 1
+Ceiling2_8x8_Light,16,179,227,255,4,deepskyblue
+HumanTrafficking,192,239,16,255,19,greenyellow 1
+Trim_SC,206,53,223,255,0,mediumorchid
+NewspaperDispenser_1,219,145,115,255,1,darksalmon
+NewspaperDispenser_2_LOD1,90,178,133,255,1,cadetblue 1
+NewspaperDispenser_2_LOD0,126,31,93,255,1,purple 1
+Barrel1_LOD1,167,79,122,255,18,indianred 1
+Barrel1_LOD0,117,177,253,255,18,lightskyblue
+VendingMachine2,94,229,20,255,1,lawngreen
+Ceiling_TwoWays_LOD1,234,57,1,255,4,orangered
+Ceiling_TwoWays_LOD2,110,190,44,255,4,yellowgreen
+Floor_4x4_2,203,67,64,255,3,indianred 2
+Ceiling_TwoWays_LOD0,27,4,178,255,4,mediumblue
+Posters2,0,134,114,255,19,teal 1
+Ground_Dirt_2,232,45,68,255,3,crimson 2
+Cables,196,12,73,255,0,crimson 3
+Ad_Burger,169,239,95,255,19,greenyellow 2
+VendingMachine1,91,155,37,255,1,olivedrab 2
+Floor_4x4_6,73,87,51,255,3,darkolivegreen
+Railing_SM,39,105,67,255,0,darkslategray 2
+Bench,59,203,241,255,7,turquoise 2
+Electric_Panel,135,150,215,255,19,mediumpurple 3
+Advert5,117,26,101,255,19,purple 2
+Advert2,149,190,130,255,19,darkseagreen 2
+Railing_Top,155,50,132,255,0,mediumvioletred 1
+Vent_SM,19,222,34,255,0,limegreen 3
+Bench5,73,219,236,255,7,turquoise 3
+Adshell_Map,176,31,6,255,19,firebrick 2
+Sign4_Down,184,112,35,255,14,chocolate
+NewspaperDispenser_3_LOD0,97,129,6,255,1,olive
+NewspaperDispenser_3_LOD1,99,77,154,255,1,darkslateblue
+Barrel2_LOD1,1,240,124,255,18,springgreen 1
+Barrel2_LOD0,35,195,152,255,18,lightseagreen 3
+Camera_LP.001,165,242,199,255,6,powderblue
+Camera,190,137,74,255,6,peru
+Sign6_Longtext2,188,49,85,255,14,indianred 3
+Beam_Style4_8x8,111,31,176,255,0,darkorchid 1
+Advert6,25,121,15,255,19,forestgreen
+Graffiti2,251,82,73,255,19,tomato
+Popcan2,244,142,211,255,18,violet
+Sign3_AllTrains,131,46,117,255,14,purple 3
+Popcan1,40,221,147,255,18,lightseagreen 4
+pivot2,155,61,103,255,0,indianred 4
+pivot3,222,141,135,255,0,darksalmon 1
+pivot,243,66,149,255,0,deeppink
+bars3,194,241,160,255,0,palegreen 1
+bars2,107,42,22,255,0,saddlebrown 1
+bars,33,192,61,255,0,limegreen 4
+Gate_Sign,14,39,5,255,14,black 2
+Gate,128,222,245,255,0,lightskyblue 1
+Ceiling2_4x4_Light,236,101,220,255,4,orchid 3
+Cables2,88,108,83,255,0,dimgray
+Railing_High,66,171,141,255,0,mediumseagreen 1
+Subway_Entrance_UCP_L0,124,80,161,255,15,slateblue
+Subway_Entrance_UCP_Stairs,115,119,145,255,15,slategray
+Subway_Entrance_UCP_L1,253,189,163,255,15,lightpink
+Bumper,173,47,63,255,0,brown
+StandPipeCover_SM,16,147,88,255,4,seagreen 1
+Floor_Safety_4x4,118,37,82,255,3,purple 4
+Sign6_Longtext1,233,230,233,255,14,lavender
+Adshell_Map_Mounted,12,143,159,255,19,darkcyan 1
+Station_Name2_Decal,93,152,192,255,19,cadetblue 2
+Advert4,101,61,143,255,19,darkslateblue 1
+Sign6_Longtext3,175,223,174,255,14,silver
+Traindoor_Right.004,129,62,245,255,8,blueviolet 1
+Train_Advertisements_LP.001,89,120,12,255,8,olivedrab 3
+LP_Train_Underpart_L0,203,202,202,255,8,lightgray
+LP_Train_RearWheels,237,230,82,255,8,khaki
+Traindoor_Right.002,44,55,192,255,8,darkslateblue 2
+Train_Advertisements_LP.000,158,74,169,255,8,darkorchid 2
+Train_Advertisements_LP.009,169,18,253,255,8,blueviolet 2
+Train_Advertisements_LP.003,44,1,225,255,8,mediumblue 1
+Traindoor_Left.006,173,66,196,255,8,darkorchid 3
+Train_Advertisements_LP.002,81,174,71,255,8,mediumseagreen 2
+LP_Train_FrontWheels,53,171,241,255,8,dodgerblue 1
+Traindoor_Left.000,187,160,64,255,8,peru 1
+Train_Advertisements_LP.008,129,92,186,255,8,slateblue 1
+Traindoor_Right.007,172,210,145,255,8,darkseagreen 3
+Train_Advertisements_LP.011,52,36,211,255,8,mediumblue 2
+LP_Train_Main_L0,48,18,214,255,8,mediumblue 3
+Traindoor_Right.006,163,172,137,255,8,darkseagreen 4
+LP_Train_Seats_L0,251,213,226,255,8,mistyrose
+Train_Advertisements_LP.010,21,41,131,255,8,midnightblue
+Train_Hold1.001,145,76,216,255,8,darkorchid 4
+Train_Advertisements_LP.006,243,200,198,255,8,pink
+Traindoor_Left.003,174,41,204,255,8,darkorchid 5
+Traindoor_Left.004,171,170,172,255,8,darkgray
+Traindoor_Left.002,191,243,160,255,8,palegreen 2
+LP_Train_Interior,2,209,86,255,8,limegreen 5
+Traindoor_Left.001,205,143,253,255,8,violet 1
+Train_Advertisements_LP.005,179,0,196,255,8,darkviolet 1
+Traindoor_Right.001,174,106,124,255,8,rosybrown 1
+Train_Advertisements_LP.007,197,223,233,255,8,powderblue 1
+Train_Advertisements_LP.004,187,89,166,255,8,palevioletred 1
+Traindoor_Right.005,68,37,153,255,8,darkslateblue 3
+Traindoor_Right.000,75,145,232,255,8,cornflowerblue 1
+Traindoor_Right.003,34,180,10,255,8,forestgreen 1
+LP_Train_Main_L1,214,7,136,255,8,mediumvioletred 2
+Traindoor_Left.005,133,230,149,255,8,lightgreen
+Train_Railtop_L0.002,151,248,132,255,8,lightgreen 1
+Traindoor_Left.007,100,98,118,255,8,dimgray 1
+Ad_Movie,23,125,82,255,19,seagreen 2
+Graffiti4,152,201,28,255,19,yellowgreen 1
+Pillar_Style4_LOD0,219,49,39,255,19,crimson 4
+Pillar_Style4_LOD2,91,212,60,255,19,limegreen 6
+Pillar_Style4_LOD1,253,49,1,255,19,orangered 1
+Floor_Safety_4x4_2,62,61,120,255,3,darkslateblue 4
+NewspaperMachine_1,133,151,124,255,1,gray
+Generator,53,141,6,255,0,forestgreen 2
+Floor_Safety_4x4_4,154,210,1,255,3,yellowgreen 2
+Posters4,114,11,24,255,19,maroon 1
+Exitsign2,236,48,144,255,14,deeppink 1
+Ad_GameEngine,177,170,57,255,0,yellowgreen 3
+Graffiti1,106,163,16,255,19,olivedrab 4
+Ticket_Machine,77,65,40,255,1,darkolivegreen 1
+Subway_Entrance_LOD1,252,48,166,255,15,deeppink 2
+Subway_Entrance_LOD0,148,252,16,255,15,chartreuse
+Floor_Platform_Ending,158,212,51,255,3,yellowgreen 4
+Missing_Cat,241,107,172,255,0,hotpink
+Relaybox_LP.002,39,34,144,255,19,midnightblue 1
+Relaybox_openable,16,168,119,255,19,darkcyan 2
+Station_Name3_Decal,34,140,144,255,19,darkcyan 3
+Traindoor_Right.039,182,195,119,255,8,darkkhaki
+Traindoor_Left.032,242,104,12,255,8,chocolate 1
+Train_Seats_L1.001,45,121,95,255,8,seagreen 3
+Train_Advertisements_LP.037,182,8,238,255,8,darkviolet 2
+Train_Advertisements_LP.038,243,33,149,255,8,deeppink 3
+Train_Underpart_L3.001,242,194,152,255,8,burlywood
+Traindoor_Right.037,156,190,148,255,8,darkseagreen 5
+Traindoor_Right.038,138,98,212,255,8,mediumpurple 4
+Traindoor_Right.034,127,64,125,255,8,dimgray 2
+Train_Underpart_RearWheels.001,91,99,16,255,8,darkolivegreen 2
+Train_Wagon_L1,10,69,119,255,8,midnightblue 2
+Traindoor_Right.036,179,119,147,255,8,rosybrown 2
+Train_Advertisements_LP.046,4,232,16,255,8,lime
+Train_Advertisements_LP.045,199,172,138,255,8,tan
+Traindoor_Left.039,154,6,243,255,8,darkviolet 3
+Train_Advertisements_LP.044,95,176,49,255,8,olivedrab 5
+Train_Advertisements_LP.043,254,21,25,255,8,red
+Traindoor_Right.033,119,71,104,255,8,dimgray 3
+Train_Wagon_Interior,16,137,213,255,8,dodgerblue 2
+Train_Underpart_L0.001,130,96,108,255,8,dimgray 4
+Train_Underpart_L2.001,188,244,120,255,8,palegreen 3
+Traindoor_Left.037,142,207,181,255,8,mediumaquamarine 2
+Train_Underpart_L1.001,200,201,9,255,8,goldenrod
+Train_Hold1.002,192,16,184,255,8,mediumvioletred 3
+Traindoor_Right.035,234,137,90,255,8,coral
+Train_Railtop_L0.001,177,215,35,255,8,yellowgreen 5
+Traindoor_Left.033,91,196,150,255,8,mediumaquamarine 3
+Train_Underpart_FrontWheels.001,238,197,243,255,8,lavender 1
+Traindoor_Left.034,78,157,19,255,8,olivedrab 6
+Traindoor_Left.036,65,250,28,255,8,limegreen 7
+Train_Wagon_L0,201,236,31,255,8,greenyellow 3
+Train_Advertisements_LP.040,142,211,253,255,8,lightskyblue 2
+Train_Advertisements_LP.039,63,31,147,255,8,darkslateblue 5
+Traindoor_Left.035,125,156,96,255,8,gray 1
+Train_Advertisements_LP.041,94,193,231,255,8,mediumturquoise 1
+Train_Seats_L0.002,203,78,104,255,8,indianred 5
+Train_Advertisements_LP.042,220,56,103,255,8,indianred 6
+Traindoor_Left.038,69,184,183,255,8,mediumturquoise 2
+Traindoor_Right.032,10,77,66,255,8,darkslategray 3
+Traindoor_Left.017,196,251,11,255,8,greenyellow 4
+Traindoor_Left.018,49,131,160,255,8,steelblue 2
+Traindoor_Right.020,225,50,26,255,8,orangered 2
+Train_Underpart_L3,38,23,143,255,8,midnightblue 3
+Traindoor_Left.023,29,170,113,255,8,mediumseagreen 3
+Train_Interior,113,195,12,255,8,yellowgreen 6
+Train_Advertisements_LP.022,133,230,98,255,8,lightgreen 2
+Traindoor_Right.023,173,69,52,255,8,sienna 1
+Train_Railtop_L0,232,32,197,255,8,deeppink 4
+Train_Advertisements_LP.020,4,164,126,255,8,darkcyan 4
+Train_Underpart_L2,241,139,209,255,8,violet 2
+Train_Underpart_RearWheels,193,254,99,255,8,greenyellow 5
+Train_Seats_L1,126,69,154,255,8,darkslateblue 6
+Train_Underpart_FrontWheels,101,83,13,255,8,saddlebrown 2
+Train_Underpart_L0,122,50,131,255,8,purple 5
+Traindoor_Left.016,239,4,244,255,8,magenta 1
+Train_Main_L0,175,17,131,255,8,mediumvioletred 4
+Train_Advertisements_LP.021,50,34,205,255,8,mediumblue 4
+Train_Advertisements_LP.018,188,9,108,255,8,mediumvioletred 5
+Traindoor_Right.021,42,101,185,255,8,steelblue 3
+Train_Hold1,239,209,163,255,8,wheat
+Traindoor_Right.016,157,229,11,255,8,chartreuse 1
+Train_Advertisements_LP.023,231,142,155,255,8,lightcoral
+Traindoor_Left.022,231,201,127,255,8,burlywood 1
+Traindoor_Right.017,16,162,148,255,8,darkcyan 5
+Train_Advertisements_LP.014,17,120,92,255,8,seagreen 4
+Traindoor_Right.022,80,32,17,255,8,maroon 2
+Train_Seats_L0,74,183,126,255,8,mediumseagreen 4
+Train_Advertisements_LP.015,237,245,42,255,8,yellow
+Traindoor_Right.018,196,157,145,255,8,rosybrown 3
+Train_Advertisements_LP.019,34,152,204,255,8,lightseagreen 5
+Train_Main_L1,214,154,155,255,8,tan 1
+Traindoor_Left.019,71,194,128,255,8,mediumseagreen 5
+Train_Advertisements_LP.016,73,125,86,255,8,seagreen 5
+Train_Advertisements_LP.013,133,210,157,255,8,darkseagreen 6
+Traindoor_Right.019,18,177,204,255,8,darkturquoise 1
+Train_Underpart_L1,248,52,229,255,8,magenta 2
+Train_Advertisements_LP.024,142,0,249,255,8,darkviolet 4
+Train_Advertisements_LP.017,117,199,30,255,8,yellowgreen 7
+Traindoor_Left.020,215,237,185,255,8,palegoldenrod
+Traindoor_Left.021,157,106,1,255,8,olive 1
+Lamp_Wall,43,120,144,255,11,steelblue 4
+Gate2_Ticketing,81,208,150,255,0,mediumaquamarine 4
+S_Subway_Entrance2,209,244,122,255,15,khaki 1
+Service_Lamp,83,227,57,255,11,limegreen 8
+S_Subway_Entrance1,95,146,108,255,15,dimgray 5
+Subway_Entrance_Style4_Stairs,232,119,48,255,15,chocolate 2
+Subway_Entrance_Style4_LOD0,27,167,254,255,15,dodgerblue 3
+Subway_Entrance_Style4_LOD1,92,117,251,255,15,cornflowerblue 2
+Barrel3_LOD0,72,139,46,255,18,darkolivegreen 3
+Barrel3_LOD1,63,39,180,255,18,darkslateblue 7
+Stairs_4x8,22,109,175,255,15,darkcyan 6
+Dirt2,208,5,45,255,19,crimson 5
+Wall_Platform_Short_Danger,249,147,119,255,19,lightsalmon
+Rails_Water,185,108,203,255,3,mediumorchid 1
+Wall_ServiceDoor_High,188,50,248,255,19,mediumorchid 2
+Stairs_Int_NoRail_02,7,214,181,255,15,darkturquoise 2
+Tunnel_Service_Door_LOD2,149,251,83,255,19,greenyellow 6
+Wall_Corner_High,33,205,145,255,19,lightseagreen 6
+Ceiling_Style_06,209,196,56,255,4,goldenrod 1
+Rails_End,129,165,36,255,3,olivedrab 7
+MetalPillar3_SM,69,119,99,255,19,seagreen 6
+Wall_Corner_Short_03,197,81,153,255,19,palevioletred 2
+Wall_Corner_Short_04,244,173,251,255,19,plum
+Wall_Corner_Short,38,195,40,255,19,limegreen 9
+Tunnel_Dual_Entrance_LOD0,66,28,170,255,0,darkslateblue 8
+Station_Name_LargeBoard,128,248,103,255,19,lightgreen 3
+Trafficlight_Red,211,171,111,255,0,darkkhaki 1
+Lamp_Small,154,57,48,255,11,brown 1
+Wall_Short_01,93,202,155,255,19,mediumaquamarine 5
+Wall_Short_02,92,216,83,255,19,limegreen 10
+Wall_Short_03,24,212,47,255,19,limegreen 11
+Wall_Short_05,92,204,80,255,19,limegreen 12
+Wall_Service,72,219,110,255,19,mediumseagreen 6
+Wall_Short_04,229,96,172,255,19,hotpink 1
+Service_Corridor,133,121,167,255,0,lightslategray
+Rails_LOD0,129,32,227,255,3,blueviolet 3
+Stairs_Interior_LOD1,134,174,226,255,15,skyblue
+Station_Name_Cylindrical,88,169,148,255,19,cadetblue 3
+Tunnel_Dual_LOD2,115,57,171,255,0,slateblue 2
+Graffiti7,49,23,94,255,19,midnightblue 4
+Barrier_Concrete,247,49,65,255,0,crimson 6
+Graffiti11,205,59,39,255,19,firebrick 3
+Tunnel_Dual_Support_Pillars,184,123,169,255,0,rosybrown 4
+Stairs_SC,208,20,141,255,15,mediumvioletred 6
+Tunnel_Single_LOD2,139,242,84,255,0,greenyellow 7
+Tunnel_Lamp_02,21,138,65,255,11,seagreen 7
+Wall_Trim_02,5,120,120,255,19,teal 2
+Tunnel_Service_Door_Handrails,235,228,108,255,19,khaki 2
+Ceiling_04_4x4,167,162,104,255,4,darkkhaki 2
+Tunnel_Service_LOD1,167,20,47,255,0,firebrick 4
+Tunnel_Service_LOD2,89,47,129,255,0,darkslateblue 9
+Ceiling_04_8x8,146,181,96,255,4,darkkhaki 3
+Stairs_Interior_LOD0,213,146,84,255,15,peru 2
+Graffiti9,215,127,45,255,19,peru 3
+Wall_Style_06,91,132,225,255,19,cornflowerblue 3
+Servicedoor,216,4,69,255,19,crimson 7
+MetalPillar4,246,125,152,255,19,lightcoral 1
+Service_Corridor_Connection_02,153,99,9,255,0,saddlebrown 3
+Tunnel_Dual_LOD0,17,136,183,255,0,lightseagreen 7
+Tunnel_Entrance_01_LOD2,234,4,234,255,0,magenta 3
+Wall_Short_45turn_05,227,150,129,255,19,darksalmon 2
+Wall_Short_45turn_03,0,215,171,255,19,mediumspringgreen
+Wall_High_90,85,85,77,255,19,darkolivegreen 4
+ER_Door_Frame,34,178,51,255,19,limegreen 13
+Tunnel_Dual_Entrance_LOD2,223,89,195,255,0,orchid 4
+Tunnel_Service_Patch,242,199,176,255,0,wheat 1
+ER_Door,2,145,34,255,19,forestgreen 3
+Stairs_Interior_LOD2,180,30,223,255,15,darkorchid 6
+Gate_02_Rotating,16,77,179,255,0,darkslateblue 10
+Graffiti8,110,136,45,255,19,olivedrab 8
+Wall_High,39,41,88,255,19,midnightblue 5
+Tunnel_Single_LOD0,219,241,62,255,0,greenyellow 8
+Wall_Trim_Style_06,172,157,63,255,19,peru 4
+Wall_ServiceDoor_Short,249,226,223,255,19,mistyrose 1
+Gate_02_Frame,206,128,46,255,0,peru 5
+Tunnel_Service_Handrails,46,242,73,255,0,limegreen 14
+Tunnel_Entrance_01_LOD1,16,93,140,255,0,teal 3
+Tunnel_Dual_Entrance_LOD1,250,142,115,255,0,salmon 1
+Servicedoor_01,65,117,157,255,19,steelblue 5
+Trafficlight_Green,162,187,78,255,0,yellowgreen 8
+Service_Corridor_Connection_01,178,205,95,255,0,darkkhaki 4
+Graffiti5,155,153,93,255,19,darkkhaki 5
+Tunnel_Service_Door_LOD1,68,183,9,255,19,limegreen 15
+Wall_Trim,121,148,206,255,19,cornflowerblue 4
+Wall_Style_06_Turn,158,153,203,255,19,darkgray 1
+Tunnel_Single_LOD1,207,131,38,255,0,peru 6
+Wall_Trim_04,28,150,118,255,19,darkcyan 7
+Stairs_4x8_Low_06,12,53,185,255,15,mediumblue 5
+Rails_GapCover,209,169,188,255,3,silver 1
+Servicedoor_01_B,132,8,181,255,19,darkviolet 5
+Wall_Short_90_04,80,123,194,255,19,steelblue 6
+Wall_Short_90_02,222,91,250,255,19,orchid 5
+Wall_Short_90_03,250,63,158,255,19,deeppink 5
+Wall_Short_90_05,155,65,204,255,19,darkorchid 7
+Wall_Short_90,188,240,193,255,19,lightgray 1
+Wall_Platform_Short_06,178,108,157,255,19,rosybrown 5
+Wall_Platform_Short_04,158,14,203,255,19,darkviolet 6
+Sign_UnathorizedPersonnel,86,204,212,255,14,mediumturquoise 3
+Graffiti6,61,144,1,255,19,forestgreen 4
+Tunnel_Dual_LOD1,82,143,84,255,0,seagreen 8
+ServiceDoor_02,165,191,229,255,19,lightsteelblue
+Tunnel_Entrance_01_LOD0,144,100,157,255,0,gray 2
+Graffiti10,52,228,79,255,19,limegreen 16
+Barrier_Plastic,11,117,11,255,0,green
+Sign_Down_02,78,131,105,255,14,dimgray 6
+Tunnel_Service_LOD0,115,83,169,255,0,slateblue 3
+Rails_LOD1,35,179,122,255,3,mediumseagreen 7
+Tunnel_Service_Door_LOD0,67,53,173,255,19,darkslateblue 11
+MetalPillar2_SM,25,72,203,255,19,royalblue 3
+Vent_Smoke,138,98,4,255,0,olive 2
+SMPL_Female_Autonomous,35,213,234,255,20,turquoise 4
+SMPL_Male_Autonomous,35,213,234,255,20,turquoise 5

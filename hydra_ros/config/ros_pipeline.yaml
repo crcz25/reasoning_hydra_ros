@@ -1,0 +1,9 @@
+---
+frontend:
+  type: FrontendModule
+backend:
+  type: BackendModule
+reconstruction:
+  type: ReconstructionModule
+object_search:
+  type: ObjectSearchModule

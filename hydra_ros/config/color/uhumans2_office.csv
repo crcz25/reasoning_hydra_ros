@@ -1,0 +1,206 @@
+name,red,green,blue,alpha,id,color
+Airventilation_3x,255,20,127,255,1,deeppink
+Airventilation_CrossSection,255,20,127,255,1,deeppink 1
+AirventilationGrid_A,255,20,127,255,1,deeppink 2
+AirventilationGrid_B,255,20,127,255,1,deeppink 3
+Books,250,50,50,255,2,crimson
+Bookshelf,250,50,50,255,2,crimson 1
+Bottle,255,20,127,255,1,deeppink 4
+Box_Black,255,20,127,255,1,deeppink 5
+Box_Cardboard,255,20,127,255,1,deeppink 6
+Box_Gray,255,20,127,255,1,deeppink 7
+CardboardBox01,255,20,127,255,1,deeppink 8
+Carpet_End,169,169,169,255,3,darkgray
+Carpet_Full_Short,169,169,169,255,3,darkgray 1
+Carpet_SingleSmallRound,169,169,169,255,3,darkgray 2
+Carpet_Tile,169,169,169,255,3,darkgray 3
+Cart,32,32,32,255,0,black
+CeilingHang01,102,0,204,255,4,darkviolet
+CeilingLamp,102,0,204,255,4,darkviolet 1
+CeilingLamp_Embed,102,0,204,255,4,darkviolet 2
+CeilingLamp_Roofpart,102,0,204,255,4,darkviolet 3
+Cell_Bars_Large,32,32,32,255,0,black 1
+Cell_Bed,32,32,32,255,0,black 2
+Cell_Complete,2,103,71,255,19,darkslategray
+Cell_Shelf,154,229,206,255,9,powderblue
+Cell_Sink,32,32,32,255,0,black 3
+Cell_Toilet,32,32,32,255,0,black 4
+Chair_LeatherOffice,102,255,0,255,5,lawngreen
+Chair_Spinning,102,255,0,255,5,lawngreen 1
+Chair_Wood,102,255,0,255,5,lawngreen 2
+Closet_Door_L,154,229,206,255,9,powderblue 1
+Closet_Door_R,154,229,206,255,9,powderblue 2
+Closet_Metal,32,32,32,255,0,black 5
+Collider_Backup,32,32,32,255,0,black 6
+CorkBoard,32,32,32,255,0,black 7
+Couch_1seat,39,144,65,255,7,seagreen
+Couch_2seat,39,144,65,255,7,seagreen 1
+Couch_3seat,39,144,65,255,7,seagreen 2
+Desk,54,176,239,255,16,dodgerblue
+Door_Bronze_Metal_Window,154,229,206,255,9,powderblue 3
+Door_Cell,154,229,206,255,9,powderblue 4
+Door_L,154,229,206,255,9,powderblue 5
+Door_Metal_Gray,154,229,206,255,9,powderblue 6
+Door_MetalDark,154,229,206,255,9,powderblue 7
+Door_R,154,229,206,255,9,powderblue 8
+Door_Wooden_Black,154,229,206,255,9,powderblue 9
+Drawer_A,154,229,206,255,9,powderblue 10
+Drawer_B,154,229,206,255,9,powderblue 11
+Drawer_C,154,229,206,255,9,powderblue 12
+Dresser_A_WithBooks,154,229,206,255,9,powderblue 13
+Elevator,2,103,71,255,19,darkslategray 1
+Elevator_Panel_Inside,2,103,71,255,19,darkslategray 2
+Elevator_Panel_Outside,2,103,71,255,19,darkslategray 3
+ElevatorDoor_L,2,103,71,255,19,darkslategray 4
+ElevatorDoor_R,2,103,71,255,19,darkslategray 5
+ExitSign_A,32,32,32,255,0,black 8
+ExitSign_B,32,32,32,255,0,black 9
+ExitWay_Lamp,32,32,32,255,0,black 10
+Fan_Blades,255,23,23,255,10,red
+FanTable,54,176,239,255,16,dodgerblue 1
+File_Papers,255,23,23,255,10,red 1
+FileFolder,255,23,23,255,10,red 2
+Files_Drawer,255,23,23,255,10,red 3
+Flagpole_Wall,32,32,32,255,0,black 11
+Floor_10x10,124,133,141,255,3,slategray
+Floor_12x1,124,133,141,255,3,slategray 1
+Floor_12x2,124,133,141,255,3,slategray 2
+Floor_12x4,124,133,141,255,3,slategray 3
+Floor_3x3,124,133,141,255,3,slategray 4
+Floor_4x2,124,133,141,255,3,slategray 5
+Floor_6x2,124,133,141,255,3,slategray 6
+Floor_6x3,124,133,141,255,3,slategray 7
+Floor_6x4,124,133,141,255,3,slategray 8
+Folder01,255,23,23,255,10,red 4
+Folder02,255,23,23,255,10,red 5
+FolderHolder,255,23,23,255,10,red 6
+FolderHolder_WithFiles,255,23,23,255,10,red 7
+Hand_Paper,255,23,23,255,10,red 8
+Keyboard,255,23,23,255,10,red 9
+Lamp_Desk,54,176,239,255,16,dodgerblue 2
+Lamp_Fluorescent_A,62,146,211,255,11,steelblue
+Lamp_Fluorescent_A_Hang,62,146,211,255,11,steelblue 1
+Lamp_Fluorescent_B,62,146,211,255,11,steelblue 2
+Lamp_Fluorescent_B_Hang,62,146,211,255,11,steelblue 3
+Lamp_Fluorescent_C,62,146,211,255,11,steelblue 4
+Lamp_Fluorescent_C_Hang,62,146,211,255,11,steelblue 5
+Lamp_Spot,62,146,211,255,11,steelblue 6
+Lamp_SpotBulb,62,146,211,255,11,steelblue 7
+Lamp_SquareCeiling,102,0,204,255,4,darkviolet 4
+Laptop_1,255,23,23,255,10,red 10
+Laptop_2,255,23,23,255,10,red 11
+LCD_Screen_1,255,23,23,255,10,red 12
+LCD_Screen_2,255,23,23,255,10,red 13
+LCD_ScreenSOLO_1,255,23,23,255,10,red 14
+Leather_Bench,35,100,35,255,6,forestgreen
+Metal_Drawer,154,229,206,255,9,powderblue 14
+Metal_Drawer_SeparateDrawers,154,229,206,255,9,powderblue 15
+MetalCabinet,154,229,206,255,9,powderblue 16
+MetalCabinet_GridDoors,154,229,206,255,9,powderblue 17
+MetalShelf_Open,154,229,206,255,9,powderblue 18
+MetalShelf_Open_WithProps,154,229,206,255,9,powderblue 19
+MetalShelf_Signle,154,229,206,255,9,powderblue 20
+Mouse,255,23,23,255,10,red 15
+MousePad,255,23,23,255,10,red 16
+Mug,255,23,23,255,10,red 17
+Mug_WithPens,255,23,23,255,10,red 18
+Painting_A,246,188,6,255,12,orange
+Painting_B,246,188,6,255,12,orange 1
+Painting_C,246,188,6,255,12,orange 2
+Painting_D,246,188,6,255,12,orange 3
+Painting_Diploma,246,188,6,255,12,orange 4
+Painting_E,246,188,6,255,12,orange 5
+Painting_F,246,188,6,255,12,orange 6
+Painting_G,246,188,6,255,12,orange 7
+Painting_Pic,246,188,6,255,12,orange 8
+PaintingSet_A,246,188,6,255,12,orange 9
+PaintingSet_B,246,188,6,255,12,orange 10
+PaintingSet_C,246,188,6,255,12,orange 11
+PaintingSet_D,246,188,6,255,12,orange 12
+Paper,255,23,23,255,10,red 19
+Paper01,255,23,23,255,10,red 20
+Paper02,255,23,23,255,10,red 21
+PaperBag01,255,23,23,255,10,red 22
+PC,255,23,23,255,10,red 23
+Pen,255,23,23,255,10,red 24
+Pencil,255,23,23,255,10,red 25
+Phone,255,23,23,255,10,red 26
+Pipe_Holder,32,32,32,255,0,black 12
+PipeLargeCeiling2x,102,0,204,255,4,darkviolet 5
+PipeLargeCeiling6x,102,0,204,255,4,darkviolet 6
+Plant_Inside_Large,38,112,233,255,13,royalblue
+Plant_Inside_Small,38,112,233,255,13,royalblue 1
+Sign_Hanging,175,32,45,255,14,firebrick
+Sink3x,32,32,32,255,0,black 13
+Stairs_RailingInside_Loop,32,32,32,255,0,black 14
+Stairs_RailingInside_Top,32,32,32,255,0,black 15
+Stairs_RailingOutside,32,32,32,255,0,black 16
+StairsMod_Ground,32,32,32,255,0,black 17
+StairsMod_Loop,32,32,32,255,0,black 18
+StairsMod_RailingInside_Loop,32,32,32,255,0,black 19
+StairsMod_RailingOutside,32,32,32,255,0,black 20
+StairsMod_StepProtectors,32,32,32,255,0,black 21
+StairsMod_Top,32,32,32,255,0,black 22
+Sticker01,246,188,6,255,12,orange 13
+Sticker02,246,188,6,255,12,orange 14
+Sticker03,246,188,6,255,12,orange 15
+f_avg,35,213,234,255,20,turquoise
+SMPL_Female_Autonomous,35,213,234,255,20,turquoise 1
+SMPL_f,35,213,234,255,20,turquoise 2
+m_avg,35,213,234,255,20,turquoise 3
+Table_Drawer,54,176,239,255,16,dodgerblue 3
+Table_DrawerSmall,54,176,239,255,16,dodgerblue 4
+Table_Flag,255,23,23,255,10,red 27
+Table_Main,54,176,239,255,16,dodgerblue 5
+Table_MeetingWithChairs,54,176,239,255,16,dodgerblue 6
+Table_Office,54,176,239,255,16,dodgerblue 7
+Table_OfficeDrawer,54,176,239,255,16,dodgerblue 8
+TableScreen_A,244,228,69,255,17,sandybrown
+TableScreen_B,244,228,69,255,17,sandybrown 1
+TableScreen_C,244,228,69,255,17,sandybrown 2
+TableScreen_C_Glass,244,228,69,255,17,sandybrown 3
+TableScreen_E,244,228,69,255,17,sandybrown 4
+TableScreen_E_Glass,244,228,69,255,17,sandybrown 5
+TableWooden,54,176,239,255,16,dodgerblue 9
+TableWooden_B,54,176,239,255,16,dodgerblue 10
+tesse_multiscene_agent,32,32,32,255,0,black 23
+Toilet,32,32,32,255,0,black 24
+Toilet_Door,32,32,32,255,0,black 25
+Toilet_Paper,32,32,32,255,0,black 26
+Toilet_Partition_End,32,32,32,255,0,black 27
+Toilet_Partition_Tile,32,32,32,255,0,black 28
+ToiletSign,32,32,32,255,0,black 29
+Trashcan,154,38,91,255,18,brown
+Trashcan_Metal,154,38,91,255,18,brown 1
+Urinal,32,32,32,255,0,black 30
+Urinal_Partition,32,32,32,255,0,black 31
+W_1x,2,103,71,255,19,darkslategray 6
+W_2x_glass_A,2,103,71,255,19,darkslategray 7
+W_2x_glass_B,2,103,71,255,19,darkslategray 8
+W_2x_glass_Door,2,103,71,255,19,darkslategray 9
+W_2x_glass_DoorDouble,2,103,71,255,19,darkslategray 10
+W_3x,2,103,71,255,19,darkslategray 11
+W_3x_Elevator_Door,2,103,71,255,19,darkslategray 12
+W_6x,2,103,71,255,19,darkslategray 13
+W_6x_Door,2,103,71,255,19,darkslategray 14
+W_6x_DoorDouble,2,103,71,255,19,darkslategray 15
+W_6x_DoorWindow_Large,2,103,71,255,19,darkslategray 16
+W_6x_Window_Large_B,2,103,71,255,19,darkslategray 17
+W_6x_Window_MiniDouble,2,103,71,255,19,darkslategray 18
+W_6x_Window_Small,2,103,71,255,19,darkslategray 19
+W_ConnectSeam,2,103,71,255,19,darkslategray 20
+W_Pilar_Large,2,103,71,255,19,darkslategray 21
+W_Pilar_Small,2,103,71,255,19,darkslategray 22
+Water_Dispenser,154,38,91,255,18,brown 2
+Water_DispenserMUG,154,38,91,255,18,brown 3
+WaterSprinkler,32,32,32,255,0,black 32
+WaterSprinklerPipe_3x,32,32,32,255,0,black 33
+WaterSprinklerPipe_CornerRight,32,32,32,255,0,black 34
+WhiteBoard,246,188,6,255,12,orange 16
+WhiteBoard_Walll,246,188,6,255,12,orange 17
+WindowBlinds_A,32,32,32,255,0,black 35
+WindowBlinds_B,32,32,32,255,0,black 36
+WindowBlinds_Closed,32,32,32,255,0,black 37
+WindowBlinds_D,32,32,32,255,0,black 38
+Stairs_Unknown,125,218,3,255,15,lawngreen 3
+Invalid,255,255,255,255,0,white

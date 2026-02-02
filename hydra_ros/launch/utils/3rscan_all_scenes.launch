@@ -1,0 +1,39 @@
+<launch>
+
+<arg name="scenes_path" default="/home/albert/Desktop/tmp_results/dataset/data/3RScan"/>
+<arg name="output_path" default="/home/albert/Desktop/hydra_out/3rscan"/>
+<arg name="test_path" default="/home/albert/Desktop/tmp_results/dataset/files/cvpr/test_scans.txt"/>
+<arg name="rate" default="1.0"/>
+<arg name="start_frame" default="0"/>
+<arg name="stride" default="1"/>
+<arg name="enable_dsg_lcds" default="true"/>
+<arg name="use_gt_semantics" default="false"/>
+<arg name="open_vocab" default="true"/>
+<arg name="segmentation_model" default="yoloe"/>
+<arg name="use_vlm" default="true"/>
+<arg name="min_separation_s" default="0.2"/>
+<arg name="pub_vlm_annotations" default="true"/>
+<arg name="start_paused" default="false"/>
+
+<arg name="python_env" default="$(find semantic_inference_python)/ros_semantics_env/bin/python" doc="Python environment for open vocab"/>
+
+<node pkg="hydra_ros" type="run_all_3rscan_scenes.py" name="run_all_3rscan_scenes" output="screen"
+      required="true" launch-prefix="$(arg python_env)">
+    <param name="scenes_path" value="$(arg scenes_path)"/>
+    <param name="output_path" value="$(arg output_path)"/>
+    <param name="rate" value="$(arg rate)"/>
+    <param name="start_frame" value="$(arg start_frame)"/>
+    <param name="stride" value="$(arg stride)"/>
+    <param name="enable_dsg_lcds" value="$(arg enable_dsg_lcds)"/>
+    <param name="use_gt_semantics" value="$(arg use_gt_semantics)"/>
+    <param name="open_vocab" value="$(arg open_vocab)"/>
+    <param name="segmentation_model" value="$(arg segmentation_model)"/>
+    <param name="use_vlm" value="$(arg use_vlm)"/>
+    <param name="min_separation_s" value="$(arg min_separation_s)"/>
+    <param name="pub_vlm_annotations" value="$(arg pub_vlm_annotations)"/>
+    <param name="start_paused" value="$(arg start_paused)"/>
+    <param name="test_path" value="$(arg test_path)"/>
+</node>
+
+
+</launch>

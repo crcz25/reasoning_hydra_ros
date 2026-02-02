@@ -1,0 +1,4 @@
+string prompt
+int16 room
+---
+bool success

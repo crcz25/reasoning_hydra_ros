@@ -1,0 +1,5 @@
+semantic_inference_msgs/FeatureVectorsStamped features
+string prompt
+string[] object_classes
+vision_msgs/BoundingBox3DArray object_bounding_boxes
+geometry_msgs/Pose[] object_poses

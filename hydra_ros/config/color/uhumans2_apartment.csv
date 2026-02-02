@@ -1,0 +1,466 @@
+name,red,green,blue,alpha,id,color
+Graphics,244,74,215,255,0,orchid
+Mirror_Floor,225,121,28,255,0,chocolate
+Books,15,18,194,255,2,mediumblue
+Strala,117,122,95,255,11,dimgray
+Strala_Bulb,212,90,129,255,11,palevioletred
+Strala_Cable,228,148,186,255,11,plum
+Kragsta_Short,205,158,166,255,16,rosybrown
+Props_Vase2,34,32,78,255,6,midnightblue
+Scatter_Rocks_Grey_Sharp_Rough_MRGSR3452_3,250,74,32,255,3,orangered
+Sinnersro_Short,41,51,214,255,6,royalblue
+Lyster,217,88,140,255,6,palevioletred 1
+Sinnersro_Tall,94,33,136,255,6,darkslateblue
+Foto,38,183,250,255,11,deepskyblue
+Strandmon_Pillow,152,163,177,255,5,darkgray
+Strandmon,179,9,126,255,5,mediumvioletred
+Book,211,33,160,255,2,mediumvioletred 1
+Trunk_LOD0,84,145,33,255,8,olivedrab
+Branches,121,203,112,255,8,darkseagreen
+Thorn,230,185,44,255,8,goldenrod
+Plastic_Chair_Seat,121,147,63,255,5,olivedrab 1
+Plastic_Chair_Leg,2,30,24,255,5,black
+Candles_Set_Short,21,14,251,255,0,blue
+Ivy2,14,27,78,255,13,midnightblue 1
+Bjursta,113,65,150,255,16,darkslateblue 1
+Eket_1X1,0,56,229,255,9,mediumblue 1
+Books2_3,38,120,95,255,2,seagreen
+Books2_5,154,220,16,255,2,yellowgreen
+Cardboard2,211,245,186,255,1,palegoldenrod
+Ypperlig,83,206,152,255,16,mediumaquamarine
+Bed_Bottom,11,46,254,255,9,blue 1
+Books2,244,51,229,255,2,magenta
+Candles_Set_Pot,158,86,45,255,0,sienna
+Frames_Pillar,73,172,120,255,4,mediumseagreen
+Glass_Exterior08,120,21,61,255,0,brown
+Glass_Exterior07,79,191,195,255,0,mediumturquoise
+Glass_Exterior06,4,168,29,255,0,forestgreen
+Glass_Exterior05,234,92,226,255,0,orchid 1
+Glass_Exterior11,16,209,253,255,0,deepskyblue 1
+Glass_Exterior10,171,127,215,255,0,mediumpurple
+Glass_Exterior09,172,230,18,255,0,greenyellow
+Glass_Interior03,28,21,212,255,0,mediumblue 2
+Glass_Interior02,104,143,192,255,0,cadetblue
+Glass_Interior01,109,128,140,255,0,slategray
+Glass_Interior07,216,126,50,255,0,peru
+Glass_Interior06,24,105,14,255,0,darkgreen
+Glass_Interior05,217,240,132,255,0,khaki
+Glass_Interior04,107,244,35,255,0,lawngreen
+Frames_Interior08,91,5,254,255,19,blueviolet
+Frames_Interior07,236,85,247,255,19,violet
+Frames_Interior06,126,219,36,255,19,yellowgreen 1
+Frames_Interior05,64,57,54,255,19,darkslategray
+Frames_Interior12,107,186,216,255,19,skyblue
+Frames_Interior11,224,82,40,255,19,chocolate 1
+Frames_Interior10,220,138,37,255,19,goldenrod 1
+Frames_Interior09,12,222,219,255,19,darkturquoise
+Glass_Exterior00,179,152,188,255,0,darkgray 1
+Frames_Interior15,245,225,43,255,19,gold
+Frames_Interior14,24,169,177,255,19,lightseagreen
+Frames_Interior13,253,162,45,255,19,goldenrod 2
+Glass_Exterior04,21,79,114,255,0,darkslategray 1
+Glass_Exterior03,69,21,86,255,0,indigo
+Glass_Exterior02,178,192,199,255,0,silver
+Glass_Exterior01,116,119,143,255,0,slategray 1
+Frames_Exterior11,15,1,250,255,19,blue 2
+Frames_Exterior10,74,244,33,255,19,limegreen
+Frames_Exterior09,99,242,122,255,19,lightgreen
+Frames_Exterior08,46,162,149,255,19,lightseagreen 1
+Frames_Exterior15,113,33,226,255,19,blueviolet 1
+Frames_Exterior14,215,183,13,255,19,goldenrod 3
+Frames_Exterior13,46,14,97,255,19,midnightblue 2
+Frames_Exterior12,213,193,160,255,19,tan
+Frames_Interior00,50,226,149,255,19,lightseagreen 2
+Frames_Exterior18,103,163,25,255,19,olivedrab 2
+Frames_Exterior17,214,78,164,255,19,palevioletred 2
+Frames_Exterior16,4,189,3,255,19,green
+Frames_Interior04,90,169,0,255,19,olivedrab 3
+Frames_Interior03,64,141,226,255,19,royalblue 1
+Frames_Interior02,247,165,186,255,19,lightpink
+Frames_Interior01,96,172,192,255,19,cadetblue 1
+Frames_Exterior03,242,175,106,255,19,sandybrown
+Frames_Exterior02,0,119,219,255,19,dodgerblue
+Frames_Exterior01,98,161,118,255,19,cadetblue 2
+Frames_Exterior00,230,207,134,255,19,burlywood
+Frames_Exterior07,10,97,25,255,19,darkgreen 1
+Frames_Exterior06,31,48,165,255,19,darkslateblue 2
+Frames_Exterior05,105,107,116,255,19,dimgray 1
+Frames_Exterior04,8,165,178,255,19,lightseagreen 3
+Glass_Kitchen03,218,29,159,255,0,mediumvioletred 2
+Glass_Interior11,126,26,30,255,0,maroon
+Glass_Interior10,114,247,86,255,0,lightgreen 1
+Glass_Interior09,106,215,185,255,0,mediumaquamarine 1
+Glass_Interior08,30,129,71,255,0,seagreen 1
+Glass_Interior13,226,206,219,255,0,gainsboro
+Glass_Interior12,7,218,253,255,0,deepskyblue 2
+Glass_Exterior19,70,60,232,255,0,royalblue 2
+Glass_Exterior18,119,226,79,255,0,yellowgreen 2
+Glass_Kitchen02,71,40,49,255,0,darkslategray 2
+Glass_Kitchen01,207,75,132,255,0,palevioletred 3
+Glass_Kitchen00,175,202,63,255,0,yellowgreen 3
+Glass_Interior18,28,46,89,255,0,midnightblue 3
+Scatter_Rocks_Grey_Sharp_Rough_MRGSR3452_10,32,148,80,255,3,seagreen 2
+Stair,238,106,187,255,15,hotpink
+Wood01,250,26,15,255,19,red
+Wood00,111,252,57,255,19,lawngreen 1
+Wood03,230,105,114,255,19,lightcoral
+Wood02,102,117,65,255,15,darkolivegreen
+Wood05,17,116,28,255,19,forestgreen 1
+Wood04,30,95,220,255,19,royalblue 3
+Wood07,146,36,78,255,15,brown 1
+Wood06,226,221,20,255,19,gold 1
+Wood08,0,123,70,255,19,seagreen 3
+Wood11,233,32,230,255,4,magenta 1
+Wood13,20,127,53,255,19,forestgreen 2
+Wood12,248,70,69,255,3,tomato
+Wood15,173,163,86,255,4,darkkhaki
+Wood14,93,140,167,255,4,cadetblue 3
+Wood017,129,202,167,255,19,mediumaquamarine 2
+Wood019,178,8,69,255,19,firebrick
+Stair3,87,184,100,255,15,mediumseagreen 1
+Stair2,209,181,234,255,15,thistle
+Wood20,238,39,190,255,19,deeppink
+Metal,214,218,160,255,0,palegoldenrod 1
+Frame,244,175,193,255,19,lightpink 1
+Picture,85,141,244,255,19,cornflowerblue
+Props_Vase4,144,186,163,255,6,darkseagreen 1
+Rocking_Chair,35,227,68,255,5,limegreen 1
+Ypperlig_Bench,12,169,80,255,5,seagreen 4
+Decor_Cage,93,20,114,255,0,indigo 1
+Hemnes_Living_Glass,124,193,96,255,9,darkseagreen 2
+Hemnes_Living,217,227,243,255,9,lavender
+Ground_Edge2,7,156,72,255,3,seagreen 5
+Ground_Edge1,126,135,135,255,3,gray
+Ground,31,75,227,255,3,royalblue 4
+Elvengen_Glass,131,222,25,255,11,yellowgreen 4
+Elvengen,2,78,102,255,11,darkslategray 3
+Gladom,230,64,232,255,16,orchid 2
+Kallax_Box5,114,132,211,255,9,cornflowerblue 1
+Lisabo,197,153,240,255,16,plum 1
+Props_Vase,130,230,241,255,6,skyblue 1
+Candle,133,99,233,255,0,mediumslateblue
+Eket_4X4,47,234,210,255,9,turquoise
+Branas,100,252,148,255,1,lightgreen 2
+Hemnes_Stair,175,205,175,255,0,silver 1
+Towel1,125,84,187,255,19,slateblue
+Stockholm_Bowl,8,154,72,255,6,seagreen 6
+Carpet_Border,233,164,232,255,3,plum 2
+Books2_7,114,222,2,255,2,lawngreen 2
+Curtain,29,42,202,255,19,mediumblue 3
+Books2_1,100,230,201,255,2,mediumturquoise 1
+Stones2,152,252,126,255,3,lightgreen 3
+Kallax_Box3,77,1,22,255,9,maroon 1
+Eket_Base,106,197,35,255,9,yellowgreen 5
+Kallax_Box1,71,153,218,255,9,cornflowerblue 2
+Candles_Set_Tall,113,254,12,255,0,lawngreen 3
+Frosta,16,252,186,255,0,mediumspringgreen
+Carpet_Bronden,184,24,182,255,3,darkorchid
+TableSet_WoodDish,239,114,144,255,0,palevioletred 4
+Fortuny_Bulb,40,160,13,255,11,forestgreen 3
+Kallax_Box2,122,210,103,255,9,darkseagreen 3
+Fortuny_Base,184,27,126,255,11,mediumvioletred 3
+TableSet_PaperBag,33,6,164,255,0,darkblue
+Ivy3,208,36,253,255,13,magenta 2
+Ivy1,250,48,99,255,13,deeppink 1
+Roof_Street,97,37,227,255,4,blueviolet 2
+Roof_Courtyard,195,103,133,255,4,palevioletred 5
+Roof_Main_Edge,192,59,147,255,4,mediumvioletred 4
+Roof_Main,245,237,61,255,4,yellow
+Selsligt,227,169,155,255,0,tan 1
+Soderhamn_Pillows5,64,132,125,255,7,seagreen 7
+Fullitalig_Short,253,35,253,255,0,magenta 3
+Box_LOW,227,11,75,255,0,crimson
+Sinnerlig_Bulb,226,175,1,255,11,orange
+Sinnerlig_Cable,126,28,36,255,11,brown 2
+Sinnerlig,58,94,89,255,11,darkslategray 4
+Sinnerlig_wood,121,129,182,255,11,lightslategray
+Kallax_Weels,241,141,236,255,9,violet 1
+Carpet_Kollund,119,233,17,255,3,lawngreen 4
+Decor_Candlestick,248,237,113,255,0,khaki 1
+Decor_Pot,224,253,144,255,0,khaki 2
+Decor_Tree,135,111,50,255,0,sienna 1
+Eket_Door_2X1,78,34,4,255,9,maroon 2
+Vase,131,133,242,255,6,mediumslateblue 1
+Foto_Bulb,43,21,99,255,11,midnightblue 4
+Soderhamn_Pillows1,132,150,149,255,7,lightslategray 1
+Carpet,88,62,0,255,3,saddlebrown
+Handles_Entrance,84,245,22,255,0,lawngreen 5
+Doors_Wardrobe_Bedroom,29,217,76,255,9,limegreen 2
+Doors_Wardrobe_Entrance,127,146,218,255,9,cornflowerblue 3
+Handles_Bedroom,92,142,222,255,0,cornflowerblue 4
+AVP6_Glasses_Rain_Collapsed,133,209,29,255,4,yellowgreen 6
+Desk_Drawers,163,74,94,255,16,indianred
+Desk,0,34,130,255,16,midnightblue 5
+Idolf,205,244,177,255,5,palegoldenrod 2
+Livslang_Short,138,143,2,255,6,olive
+Hektar_Bulb,30,225,203,255,11,turquoise 1
+Hektar,163,222,16,255,11,yellowgreen 7
+Scatter_Rocks_Grey_Sharp_Rough_MRGSR3452_1,225,244,99,255,3,khaki 3
+Ivy4_Leaf,235,108,103,255,13,salmon
+Stockholm_Vases,58,0,122,255,6,indigo 2
+Kallax_Box4,87,168,52,255,9,olivedrab 4
+Flottebo_Sofa,201,236,159,255,7,palegoldenrod 3
+Flottebo_Pillows3,4,86,165,255,7,teal
+Flottebo_Pillows2,79,40,141,255,7,darkslateblue 3
+Flottebo_Pillows1,37,209,22,255,7,limegreen 3
+Eket_Base_Short,128,77,106,255,9,dimgray 2
+Environment_Sphere,13,188,45,255,0,limegreen 4
+Kettle,250,212,203,255,6,bisque
+Window_Glass_Interior04,236,69,133,255,9,palevioletred 6
+Window_Glass_Interior00,40,24,10,255,9,black 1
+Window_Glass_Interior01,67,21,163,255,9,indigo 3
+Window_Glass_Interior02,186,104,91,255,9,indianred 1
+Window_Glass_Interior03,34,46,151,255,9,darkslateblue 4
+Window_Glass_Exterior,100,52,94,255,9,darkslateblue 5
+Window005,228,216,253,255,0,lavender 1
+Window,45,50,189,255,0,darkslateblue 6
+Window001,80,7,75,255,0,indigo 4
+Window002,214,126,105,255,0,lightcoral 1
+Window004,228,24,85,255,0,crimson 1
+Ivy2_Plane,75,200,166,255,13,mediumaquamarine 3
+Ivy4_Plane,251,51,20,255,13,orangered 1
+TableSet_Candle,64,34,149,255,0,darkslateblue 7
+Carpet_Flottebo,226,197,109,255,3,burlywood 1
+Curtain_Holder3,184,213,103,255,19,darkkhaki 1
+Curtain_Holder2,35,98,239,255,19,royalblue 5
+Curtain_Holder1,22,247,178,255,19,mediumspringgreen 1
+TableSet_Coffe,105,195,220,255,0,skyblue 2
+Ikea_PS,181,230,2,255,0,greenyellow 1
+Kallax_Chest,163,153,191,255,9,darkgray 2
+Eket_1X2,94,171,197,255,9,cadetblue 4
+Wood,5,239,81,255,4,springgreen
+Towel4,104,0,196,255,19,darkviolet
+Chair,43,52,85,255,5,darkslategray 5
+Door4,1,77,3,255,9,darkgreen 2
+Pot,154,157,2,255,6,darkgoldenrod
+Brimnes_Pillow6,243,173,128,255,14,lightsalmon
+Brimnes_Cover2,66,219,237,255,14,turquoise 2
+Brimnes_Cover1,97,56,149,255,14,darkslateblue 8
+Brimnes_Pillow1,212,194,96,255,14,darkkhaki 2
+Brimnes,208,215,174,255,14,silver 2
+Brimnes_Pillow3,193,19,125,255,14,mediumvioletred 5
+Brimnes_Pillow2,50,40,146,255,14,darkslateblue 9
+Brimnes_Pillow5,79,178,28,255,14,limegreen 5
+Brimnes_Pillow4,107,12,141,255,14,purple
+Knod,143,105,243,255,18,mediumslateblue 2
+Foto_Cable,129,113,46,255,11,olivedrab 5
+Vase3,0,137,166,255,6,darkcyan
+Fortuny_Top,149,199,176,255,11,darkseagreen 4
+Selia,23,113,160,255,16,darkcyan 1
+Eket_Door_1X1,186,193,53,255,9,yellowgreen 8
+Handle1,75,67,41,255,0,darkolivegreen 1
+Handle2,94,202,187,255,0,mediumaquamarine 4
+Door3,7,247,198,255,9,darkturquoise 1
+Door1,20,191,158,255,9,lightseagreen 4
+Door2,69,4,221,255,9,mediumblue 4
+Ikea_Superfront_Mirror,75,40,189,255,0,darkslateblue 10
+Ikea_Superfront,15,236,216,255,16,darkturquoise 2
+Candles,36,224,235,255,0,turquoise 3
+Stockholm_Suspension_Cable,159,85,197,255,0,mediumorchid
+Stockholm_Suspension_Glass,46,114,64,255,0,seagreen 8
+Stockholm_Suspension,60,233,86,255,0,limegreen 6
+Vase1,45,116,174,255,6,steelblue
+Alseda,80,115,223,255,0,royalblue 6
+Cylinder001,152,6,135,255,19,darkmagenta
+Line048,245,43,87,255,4,crimson 2
+Cylinder006,16,37,37,255,19,black 2
+Cylinder007,147,69,221,255,19,darkorchid 1
+Line093,210,7,234,255,4,magenta 4
+Vase1_Branch,114,35,225,255,6,blueviolet 3
+Ypperlig_Table,5,27,134,255,16,darkblue 1
+Cable1,48,129,90,255,0,seagreen 9
+Cable2,82,152,53,255,0,olivedrab 6
+Spotlight2,168,131,79,255,11,peru 1
+Spotlight3,48,80,17,255,11,darkgreen 3
+Cable3,158,91,80,255,0,sienna 2
+Spotlight1,153,202,235,255,11,skyblue 3
+Props_Vase3,46,40,20,255,6,black 3
+TableSet_Water,90,30,55,255,0,darkslategray 6
+Brunsta,89,185,7,255,11,olivedrab 7
+Brunsta_Cable,99,247,181,255,0,aquamarine
+Brunsta_Glass,164,113,230,255,0,mediumpurple 1
+Towel2,122,214,114,255,19,darkseagreen 5
+Towel_Heater,28,123,42,255,19,forestgreen 4
+Samspelt,247,152,116,255,9,lightsalmon 1
+Hemnes_Shelf,141,43,233,255,9,blueviolet 4
+Kitchen_Hood,232,87,8,255,19,orangered 2
+SpotLightWardrobe_Led,7,197,74,255,11,limegreen 7
+SpotLightWardrobe,26,92,28,255,11,darkgreen 4
+Dish,213,233,159,255,0,palegoldenrod 4
+Base,210,16,241,255,0,magenta 5
+Hemnes_Bedside,163,188,80,255,9,yellowgreen 9
+Pillow,77,30,216,255,0,blueviolet 5
+Line094,21,84,146,255,4,teal 1
+Line092,123,229,28,255,4,lawngreen 6
+Shape026,34,113,52,255,19,forestgreen 5
+Line090,52,10,215,255,4,mediumblue 5
+Line088,153,2,7,255,4,darkred
+Line089,58,41,48,255,4,darkslategray 7
+SilverBirchTrunk_02_LOD0,66,48,55,255,8,darkslategray 8
+SilverBirchBranches_02_LOD0,246,153,243,255,8,violet 2
+TableSet_Vase,178,34,56,255,0,brown 3
+Floor_Courtyard_Green1,16,144,199,255,3,lightseagreen 5
+Floor_Ceramic,250,244,105,255,3,khaki 4
+Floor_Courtyard_Green3,43,223,34,255,3,limegreen 8
+Floor_Courtyard_Green2,136,18,165,255,3,darkmagenta 1
+Floor_Parquet_Exterior2,46,0,232,255,3,blue 3
+Floor_Parquet_Exterior,155,15,8,255,3,darkred 1
+Floor_Parquet_Living,162,25,197,255,3,darkorchid 2
+Floor_Parquet_Kitchen,106,39,26,255,3,saddlebrown 1
+StraightStair001,77,98,153,255,15,darkslateblue 11
+Floor_Parquet_Relax,19,23,172,255,3,mediumblue 6
+Walls_Bathroom,105,5,80,255,19,purple 1
+StraightStair002,11,35,202,255,15,mediumblue 7
+Walls_Courtyard_Edge,44,223,211,255,19,turquoise 4
+Walls_Courtyard2,182,142,53,255,19,peru 2
+Walls_Diningroom,128,87,173,255,19,slateblue 1
+Walls_Coutyard1,88,46,88,255,19,darkslategray 9
+Walls_Kitchen,184,109,150,255,19,rosybrown 1
+Walls_Garage,231,170,201,255,19,plum 3
+Walls_Shell,16,184,75,255,19,limegreen 9
+Walls_Relaxroom,22,85,18,255,19,darkgreen 5
+Walls_Studio2,130,40,2,255,19,saddlebrown 2
+Walls_Studio1,199,248,37,255,19,greenyellow 2
+Walls_Wardobe,135,14,24,255,19,darkred 2
+Scatter_Rocks_Grey_Sharp_Rough_MRGSR3452_4,78,73,252,255,3,royalblue 7
+Ground_Courtyard1,204,175,69,255,3,goldenrod 4
+Ground_Courtyard2,40,57,59,255,3,darkslategray 10
+Ypperlig_Chair,222,91,159,255,5,palevioletred 7
+Clouds,19,161,251,255,0,dodgerblue 1
+Fridge,220,219,68,255,1,darkkhaki 3
+PS_Hanger_Tall,85,67,23,255,0,darkolivegreen 2
+Mac,134,55,37,255,10,saddlebrown 3
+Mac_Keyboard,174,18,33,255,10,firebrick 1
+Mac_Mouse,28,19,169,255,10,darkblue 2
+Stockholm_Glass,98,125,101,255,0,dimgray 3
+Stockholm,98,195,204,255,9,mediumturquoise 2
+Mirror,129,101,70,255,0,dimgray 4
+WC,42,102,215,255,0,royalblue 8
+Stocksund,42,112,26,255,7,forestgreen 6
+Livslang_Tall,212,80,172,255,6,palevioletred 8
+Ivy1_Plane,22,251,10,255,13,lime
+Lauter,177,112,162,255,11,rosybrown 2
+Pello_Wood,55,51,225,255,5,royalblue 9
+Pello_Cloth,160,80,132,255,5,gray 1
+Hallstavik,177,210,14,255,9,yellowgreen 10
+Hallstavik_Door,220,246,190,255,9,palegoldenrod 5
+PS,64,67,170,255,0,darkslateblue 12
+Burvik,162,254,139,255,16,palegreen
+Soderhamn_Pillows4,20,9,203,255,7,mediumblue 8
+Stones3,113,196,166,255,3,mediumaquamarine 5
+Ivy3_Plane,44,131,224,255,13,royalblue 10
+Towel3,207,201,36,255,19,goldenrod 5
+Nimo_Lampshade,87,197,86,255,11,mediumseagreen 2
+Nimo,158,193,156,255,11,darkseagreen 6
+Nimo_Bulb,71,27,18,255,11,maroon 3
+Nimo_Line,135,38,94,255,11,purple 2
+Fullitalig_Tall,238,101,147,255,0,palevioletred 9
+Cardboard,189,237,142,255,1,palegreen 1
+Vase2,160,180,10,255,6,yellowgreen 11
+Soderhamn_Pillows3,181,112,247,255,7,mediumpurple 2
+Door_Relax_Handle042,49,116,164,255,19,steelblue 1
+Door_Relax_Handle037,82,247,239,255,19,turquoise 5
+Door_Relax_Handle045,190,230,176,255,19,silver 3
+Door_Relax_Handle043,172,199,178,255,19,silver 4
+Door_Relax_Handle029,70,107,170,255,19,steelblue 2
+Door_Relax_Handle028,66,89,95,255,19,darkslategray 11
+Door_Relax_Handle035,138,122,145,255,19,gray 2
+Door_Relax_Handle032,29,114,237,255,19,dodgerblue 2
+Door_Relax_Handle057,157,109,161,255,19,lightslategray 2
+Door_Relax_Handle051,73,56,14,255,19,darkolivegreen 3
+Door_Relax_Handle049,85,106,165,255,19,steelblue 3
+Door_Relax_Handle054,108,121,16,255,19,olive 1
+Door_Relax_Handle052,182,236,166,255,19,palegreen 2
+Door_Relax_Handle001,41,201,1,255,19,limegreen 10
+Door_Relax_Handle007,95,79,98,255,19,dimgray 5
+Door_Relax_Handle008,59,70,156,255,19,darkslateblue 13
+Door_Relax_Handle003,180,220,11,255,19,yellowgreen 12
+Door_Relax_Handle005,9,204,202,255,19,darkturquoise 3
+Door_Relax_Handle004,12,201,193,255,19,darkturquoise 4
+Door_Relax_Handle015,64,162,166,255,19,cadetblue 5
+Door_Relax_Handle017,221,195,215,255,19,thistle 1
+Door_Relax_Handle011,228,209,61,255,19,goldenrod 6
+Door_Relax_Handle010,32,116,47,255,19,forestgreen 7
+Door_Relax_Handle013,212,176,225,255,19,thistle 2
+Door_Relax_Handle023,235,130,251,255,19,violet 3
+Door_Relax_Handle022,54,102,23,255,19,darkolivegreen 4
+Door_Relax_Handle026,170,83,140,255,19,palevioletred 10
+Door_Relax_Handle024,243,150,175,255,19,lightpink 2
+Door_Relax_Handle019,78,57,152,255,19,darkslateblue 14
+Door_Relax_Handle018,116,248,112,255,19,lightgreen 4
+Door_Relax_Handle021,6,36,29,255,19,black 4
+Door_Relax_Handle020,223,42,186,255,19,deeppink 2
+Door_Relax1,136,107,3,255,19,olive 2
+Door_Bedroom_Frame,107,147,2,255,19,olive 3
+Door_Relax_Handle,165,235,187,255,19,palegreen 3
+Door_Relax2,82,226,122,255,19,mediumseagreen 3
+Door_Bathroom,57,67,39,255,19,darkslategray 12
+Door_Bedroom,183,139,173,255,19,rosybrown 3
+Door_Bathroom_Frame,251,50,86,255,19,crimson 3
+Rastog,38,36,65,255,16,darkslategray 13
+Fullitalig_Medium,59,42,64,255,0,darkslategray 14
+Shower,245,20,106,255,19,deeppink 3
+Shower_Glass,178,105,45,255,19,sienna 3
+Board_Glass,242,89,0,255,19,orangered 3
+Svalnas,35,1,1,255,9,black 5
+Svalnas_Metal,15,107,65,255,9,darkslategray 15
+Kallax_2x4,90,112,147,255,9,slategray 2
+Soderhamn_Pillows2,245,133,77,255,7,coral
+Soderhamn,247,29,103,255,7,deeppink 4
+Kitchen_Props,247,234,22,255,0,gold 2
+Kitcken_Accessory,116,72,17,255,19,saddlebrown 4
+Kitchen_Tiles,152,110,85,255,19,sienna 4
+Soderhamn_Pillows6,164,23,125,255,7,mediumvioletred 6
+Mesh_Collider17,138,55,176,255,0,darkorchid 3
+Mesh_Collider16,77,196,129,255,0,mediumseagreen 4
+Mesh_Collider19,82,146,98,255,0,seagreen 10
+Mesh_Collider18,178,251,118,255,0,palegreen 4
+Mesh_Collider21,73,165,242,255,0,cornflowerblue 5
+Mesh_Collider20,66,168,189,255,0,steelblue 4
+Box_Collider00,223,119,48,255,0,chocolate 2
+Mesh_Collider22,134,55,186,255,0,darkorchid 4
+Box_Collider02,113,147,232,255,0,cornflowerblue 6
+Box_Collider01,137,26,163,255,0,darkmagenta 2
+Box_Collider04,156,160,135,255,0,darkseagreen 7
+Box_Collider03,120,100,233,255,0,mediumslateblue 3
+Box_Collider06,54,251,226,255,0,turquoise 6
+Box_Collider05,254,101,217,255,0,hotpink 1
+Box_Collider07,233,176,159,255,0,burlywood 2
+Mesh_Collider01,18,253,128,255,0,springgreen 1
+Mesh_Collider00,131,115,119,255,0,gray 3
+Mesh_Collider03,84,48,62,255,0,darkslategray 16
+Mesh_Collider02,212,249,90,255,0,greenyellow 3
+Mesh_Collider05,163,91,128,255,0,gray 4
+Mesh_Collider04,66,197,109,255,0,mediumseagreen 5
+Mesh_Collider07,119,153,54,255,0,olivedrab 8
+Mesh_Collider06,110,9,84,255,0,purple 3
+Mesh_Collider09,101,40,91,255,0,darkslateblue 15
+Mesh_Collider08,2,37,179,255,0,mediumblue 9
+Mesh_Collider11,16,249,123,255,0,springgreen 2
+Mesh_Collider10,141,209,182,255,0,mediumaquamarine 6
+Mesh_Collider13,7,111,146,255,0,teal 2
+Mesh_Collider12,126,163,10,255,0,olive 4
+Mesh_Collider15,184,125,64,255,0,peru 3
+Mesh_Collider14,22,254,215,255,0,cyan
+Candle_Tall,216,195,216,255,0,thistle 3
+Candle-Short,16,187,35,255,0,limegreen 11
+Jorid,216,28,150,255,16,mediumvioletred 7
+Jorid_Tray,223,58,136,255,16,mediumvioletred 8
+Soderhamn_Pillows7,98,125,79,255,7,dimgray 6
+Kitchen,171,203,153,255,0,darkseagreen 8
+Net2_Wire,101,198,178,255,19,mediumaquamarine 7
+Net1_Wire,124,71,170,255,19,slateblue 2
+Net2_Hooks,101,149,95,255,19,dimgray 7
+Net1_Hooks,247,116,218,255,19,violet 4
+Kallax_2x2,31,50,87,255,9,darkslategray 17
+Alu_Chair,219,128,223,255,5,orchid 3
+Hemnes_Drawer,197,148,252,255,9,plum 4
+SilverBirchTrunk_01_LOD0,169,95,18,255,8,sienna 5
+SilverBirchBranches_01_LOD0,27,251,79,255,8,springgreen 3
+Riggad,179,65,112,255,11,indianred 2
+Skogsta,10,229,232,255,16,darkturquoise 5
+Stones1,7,80,56,255,3,darkslategray 18
+Board,128,218,46,255,19,yellowgreen 13
+Selje,182,70,147,255,16,mediumvioletred 9
+SMPL_Female_Autonomous,35,213,234,255,20,turquoise 7
+SMPL_Male_Autonomous,35,213,234,255,20,turquoise 8

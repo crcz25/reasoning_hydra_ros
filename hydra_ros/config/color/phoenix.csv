@@ -1,0 +1,26 @@
+name,red,green,blue,alpha,id,color
+Unknown,0,0,0,255,255,black
+dirt,108,64,20,255,0,saddlebrown
+sand,255,229,204,255,1,blanchedalmond
+grass,0,102,0,255,2,darkgreen
+tree,0,255,0,255,3,lime
+pole,0,153,153,255,4,darkcyan
+water,0,128,255,255,5,dodgerblue
+sky,0,128,255,255,6,dodgerblue 1
+vehicle,255,255,0,255,7,yellow
+container,255,0,127,255,8,deeppink
+asphalt,64,64,64,255,9,darkslategray
+gravel,255,128,0,255,10,darkorange
+building,255,0,0,255,11,red
+mulch,153,76,0,255,12,saddlebrown 1
+rock-bed,102,102,0,255,13,olive
+log,102,0,0,255,14,maroon
+bicycle,0,255,128,255,15,springgreen
+person,204,153,255,255,16,plum
+fence,102,0,204,255,17,darkviolet
+bush,255,153,204,255,18,lightpink
+sign,0,102,102,255,19,teal
+rock,153,204,255,255,20,lightskyblue
+bridge,102,255,255,255,21,aquamarine
+concrete,101,101,11,255,22,olive 1
+table,114,85,47,255,23,darkolivegreen

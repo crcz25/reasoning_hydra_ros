@@ -1,0 +1,162 @@
+name,red,green,blue,alpha,id,color
+unknown,170,170,170,255,160,darkgray
+armchair,22,210,148,255,0,lightseagreen
+backpack,3,178,236,255,1,deepskyblue
+bag,68,3,43,255,2,maroon
+ball,64,108,120,255,3,dimgray
+bar,250,247,91,255,4,khaki
+basin,107,246,22,255,5,lawngreen
+basket,6,246,36,255,6,lime
+bath cabinet,24,19,163,255,7,darkblue
+bathtub,241,86,22,255,8,orangered
+bed,107,222,99,255,9,lightgreen
+bedside table,185,252,241,255,10,paleturquoise
+bench,22,57,82,255,11,darkslategray
+bidet,8,210,239,255,12,deepskyblue 1
+bin,99,83,114,255,13,dimgray 1
+blanket,230,233,1,255,14,gold
+blinds,134,150,58,255,15,olivedrab
+board,184,65,95,255,16,indianred
+book,235,147,129,255,17,darksalmon
+books,131,216,249,255,18,lightskyblue
+bookshelf,62,74,106,255,19,darkslategray 1
+bottle,132,157,6,255,20,olive
+box,161,38,8,255,21,firebrick
+bread,158,117,108,255,22,gray
+bucket,172,241,222,255,23,paleturquoise 1
+cabinet,173,187,187,255,24,silver
+carpet,71,173,171,255,25,cadetblue
+ceiling,124,45,17,255,26,saddlebrown
+chair,105,32,179,255,27,darkorchid
+cleanser,213,31,174,255,28,mediumvioletred
+clock,16,196,58,255,29,limegreen
+closet,178,140,33,255,30,darkgoldenrod
+clothes,245,248,154,255,31,khaki 1
+clothes dryer,62,107,48,255,32,darkolivegreen
+clutter,226,136,218,255,33,violet
+coffee machine,136,187,246,255,34,lightskyblue 1
+coffee table,48,197,246,255,35,deepskyblue 2
+commode,143,146,254,255,36,cornflowerblue
+computer desk,244,159,125,255,37,lightsalmon
+couch,188,106,169,255,38,palevioletred
+couch table,170,140,176,255,39,darkgray 1
+counter,120,125,54,255,40,olivedrab 1
+cup,7,97,25,255,41,darkgreen
+cupboard,59,184,27,255,42,limegreen 1
+curtain,183,226,162,255,43,palegreen
+cushion,73,27,161,255,44,darkslateblue
+cutting board,40,188,59,255,45,limegreen 2
+decoration,57,22,43,255,46,darkslategray 2
+desk,186,64,90,255,47,indianred 1
+dining chair,189,172,151,255,48,tan
+dining table,46,105,60,255,49,darkslategray 3
+door,190,3,93,255,50,mediumvioletred 1
+doorframe,18,207,21,255,51,limegreen 3
+drawer,71,211,140,255,52,mediumseagreen
+drum,191,102,164,255,53,palevioletred 1
+drying machine,65,155,31,255,54,forestgreen
+extractor fan,229,52,215,255,55,mediumorchid
+fireplace,228,236,250,255,56,lavender
+floor,138,177,98,255,57,darkseagreen
+flower,94,59,255,255,58,blueviolet
+flowers,22,221,135,255,59,mediumspringgreen
+folder,214,162,1,255,60,goldenrod
+food,0,25,15,255,61,black
+footstool,140,246,10,255,62,chartreuse
+frame,151,6,168,255,63,darkmagenta
+fruit plate,108,150,131,255,64,slategray
+garbage,78,78,0,255,65,darkolivegreen 1
+garbage bin,50,241,241,255,66,turquoise
+grass,142,45,117,255,67,purple
+hand dryer,189,229,5,255,68,greenyellow
+heater,128,65,198,255,69,darkorchid 1
+item,46,193,53,255,70,limegreen 4
+jacket,204,128,100,255,71,indianred 2
+jar,164,75,139,255,72,mediumvioletred 2
+kettle,145,194,27,255,73,yellowgreen
+kitchen appliance,178,252,55,255,74,greenyellow 1
+kitchen cabinet,3,54,65,255,75,darkslategray 4
+kitchen counter,9,217,22,255,76,lime 1
+kitchen hood,149,15,93,255,77,purple 1
+ladder,202,22,107,255,78,mediumvioletred 3
+lamp,24,130,169,255,79,darkcyan
+laptop,240,86,19,255,80,orangered 1
+laundry basket,84,125,110,255,81,dimgray 2
+light,205,130,104,255,82,darksalmon 1
+machine,176,216,19,255,83,yellowgreen 1
+magazine rack,131,168,87,255,84,yellowgreen 2
+menu,12,218,76,255,85,limegreen 5
+microwave,4,119,218,255,86,dodgerblue
+mirror,27,226,204,255,87,darkturquoise
+monitor,54,83,51,255,88,darkslategray 5
+napkins,52,138,179,255,89,steelblue
+nightstand,245,190,215,255,90,pink
+object,157,122,245,255,91,mediumpurple
+objects,81,42,18,255,92,saddlebrown 1
+organizer,144,181,185,255,93,darkgray 2
+ottoman,156,175,21,255,94,yellowgreen 3
+oven,191,187,44,255,95,goldenrod 1
+pack,113,95,235,255,96,mediumslateblue
+pan,43,12,41,255,97,black 1
+paper towel,236,9,150,255,98,deeppink
+papers,97,83,244,255,99,mediumslateblue 1
+pc,148,169,64,255,100,yellowgreen 4
+picture,215,211,201,255,101,lightgray
+pile of books,88,182,59,255,102,limegreen 6
+pile of papers,148,19,182,255,103,darkviolet
+pillow,75,112,11,255,104,darkolivegreen 2
+pipe,172,177,14,255,105,darkgoldenrod 1
+plant,70,29,58,255,106,darkslategray 6
+plate,134,9,46,255,107,brown
+player,55,57,150,255,108,darkslateblue 1
+pot,5,232,137,255,109,mediumspringgreen 1
+printer,138,130,156,255,110,lightslategray
+rack,187,34,95,255,111,mediumvioletred 4
+radiator,246,229,48,255,112,gold 1
+recycle bin,119,160,18,255,113,olivedrab 2
+refrigerator,211,31,137,255,114,mediumvioletred 5
+rocking chair,0,1,83,255,115,navy
+scale,251,17,125,255,116,deeppink 1
+screen,150,72,101,255,117,dimgray 3
+shelf,10,152,231,255,118,dodgerblue 1
+shoe,161,29,27,255,119,firebrick 1
+shoe rack,252,70,161,255,120,hotpink
+shoes,165,221,194,255,121,lightblue
+showcase,220,96,9,255,122,chocolate
+shower,194,154,207,255,123,plum
+shower curtain,159,62,50,255,124,sienna
+shower floor,37,1,200,255,125,mediumblue
+shower wall,197,187,34,255,126,goldenrod 2
+side table,238,12,23,255,127,red
+sink,26,37,8,255,128,black 2
+soap dish,27,64,124,255,129,midnightblue
+socket,217,235,113,255,130,khaki 2
+sofa,182,121,68,255,131,peru
+sofa chair,24,146,51,255,132,forestgreen 1
+stair,126,36,78,255,133,brown 1
+stand,0,130,79,255,134,seagreen
+stool,37,155,30,255,135,forestgreen 2
+stove,15,71,118,255,136,midnightblue 1
+stuffed animal,216,157,141,255,137,tan 1
+suitcase,178,166,76,255,138,darkkhaki
+table,71,38,201,255,139,slateblue
+table lamp,105,221,108,255,140,lightgreen 1
+telephone,100,232,188,255,141,mediumaquamarine
+toaster,229,169,169,255,142,tan 2
+toilet,110,226,128,255,143,lightgreen 2
+toilet brush,109,244,124,255,144,lightgreen 3
+toilet paper,85,225,16,255,145,lawngreen 1
+toilet paper dispenser,69,11,158,255,146,indigo
+towel,177,122,126,255,147,rosybrown
+trash can,187,156,52,255,148,peru 1
+trashcan,151,89,138,255,149,gray 1
+tube,79,153,106,255,150,mediumseagreen 1
+tv,133,117,148,255,151,gray 2
+tv stand,89,180,217,255,152,mediumturquoise
+vase,228,158,122,255,153,darksalmon 2
+wall,87,217,136,255,154,mediumaquamarine 1
+wardrobe,28,49,169,255,155,darkslateblue 2
+washing machine,251,97,227,255,156,violet 1
+washing powder,45,53,128,255,157,darkslateblue 3
+window,141,33,212,255,158,blueviolet 1
+windowsill,193,34,215,255,159,darkorchid 2
