@@ -84,8 +84,8 @@ class HM3DSemPublisher:
             crop_width = (W - self.crop_width) // 2
             W = self.crop_width
         if self.crop_height > 0 and self.crop_height < H:
-            H = self.crop_height
             crop_height = (H - self.crop_height) // 2
+            H = self.crop_height
             # Adjust the intrinsics for the crop
             cx -= crop_width
             cy -= crop_height

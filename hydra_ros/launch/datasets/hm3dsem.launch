@@ -64,8 +64,8 @@
     <include file="$(find semantic_inference_ros)/launch/semantic_inference.launch" pass_all_args="true"/>
 
     <!-- Navigation launch -->
-    <include file="$(find semantic_inference_ros)/launch/navigation_prompt_parser.launch" pass_all_args="true"/>
-    <include file="$(find semantic_inference_ros)/launch/vlm_for_navigation.launch" pass_all_args="true"/>
+    <include file="$(find semantic_inference_ros)/launch/navigation_prompt_parser.launch" pass_all_args="true" if="$(arg promptable_relationships)"/>
+    <include file="$(find semantic_inference_ros)/launch/vlm_for_navigation.launch" pass_all_args="true" if="$(arg navigation_vlm)"/>
 
     <!-- Hydra launch -->
     <include file="$(find hydra_ros)/launch/hydra.launch" pass_all_args="true">
